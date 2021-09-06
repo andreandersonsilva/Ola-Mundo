@@ -20,3 +20,6 @@ function numeroAleatorio(a,b){
 
 
 }
+
+
+document.write("<p>Olá<br/> Mundo</p>")
