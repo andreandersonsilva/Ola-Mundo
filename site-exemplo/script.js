@@ -1,15 +1,16 @@
+
+
 /*Manipulando o resultado dos botões do CONFIRM*/ 
 
-let result = confirm("Olá Mundo!")
+/*let result = confirm("Olá Mundo!")
 while(result == false){
     result = confirm("Clique em OK!")
 }if (result == true){
     result=alert("Bem Vindo")
-}
+}*/
 
-//prompt("Ola Mundo", "Olá")
 
-function numeroAleatorio(a,b){
+/*function numeroAleatorio(a,b){
 
     let ntotal = b-a+1;
     let resultado = Math.floor(Math.random()*ntotal + a);
@@ -20,6 +21,4 @@ function numeroAleatorio(a,b){
 
 
 }
-
-
-document.write("<p>Olá<br/> Mundo</p>")
+*/
